@@ -57,5 +57,25 @@ Transform your ideas into custom Lightning apps that extend CRM workflows direct
 - [Salesforce VS Code Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 
 Testando o caminho do Trailhead! Se mas alguem ler isso, quero deixar essa mensagem, JESUS TE AMA E QUER TE SALVAR!
-Vou deixar algo melhor desta vez
 Salmos 121:1-2
+
+<!--
+O que entendi até o atual momento(14/07/2026): 
+
+Sempre que for dar algum comando relativo ao git ou github, no terminal do VS Code tem que começar com git
+
+git checkout - serve para selecionar a Filial (Ramificação/Linha de trabalho) vai estar mexendo.O comando correto: git checkout nome-da-branch
+
+Após usar isso faz as alterações no README.md, após as alterações tem que salvar.
+
+Em caso de dúvidas você pode usar o comando "git status" ai ele mostra se as alterações foram salvas ou não, se o arquivo README.md aparecer em vermelho tem que usar o comando "git add", se aparecer verde está ok.
+Depois disso usamos o comando "git add README.md" para poder ser feita as alterações quando você mandar o arquivo para nuvem. Se ainda tiver dúvidas sobre o comando só usar o git status outra vez.
+
+Depois disso usa o comando "commit" onde funciona assim: git commit -m "Mensagem de texto ou titulo do arquivo aqui" 
+após usar esse comando vai aparecer uma mensagem parecida com isso aqui (['nome da Organização' 'codigo de identificação 0000bbb'] 'Mensagem que você digitou') [mestre 0000bbb] Commit to resolve merge conflict
+
+git push(Empurrar): Esse é o comando que manda as coisas do seu computador para o navegador/GitHub. É o git push que faz aparecer o link para você criar o Pull Request.
+git pull(Puxar): Esse comando traz as coisas da nuvem para o seu computador.
+
+Em caso de conflito você pode usar o "git merge nome-da-outra-branch" (OBS: Resolver pelo navegador é mais fácil)
+-->
