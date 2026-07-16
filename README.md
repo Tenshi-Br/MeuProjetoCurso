@@ -79,3 +79,9 @@ git pull(Puxar): Esse comando traz as coisas da nuvem para o seu computador.
 
 Em caso de conflito você pode usar o "git merge nome-da-outra-branch" (OBS: Resolver pelo navegador é mais fácil)
 -->
+
+Se usar o comando 'git commit' enquanto você estiver na area de edição de texto e terminar de escrever e não souber mais o que fazer, aperte o "ESC" do teclado e depois digite ":wq" para sair da area do terminal.
+
+E sempre que for usar um comando no terminal, deve começar com a teltra minúscula, se você começar com a letra maiúsculas pode gerar um erro.
+
+
